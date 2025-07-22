@@ -52,30 +52,35 @@ This project presents a dynamic **Excel-based Sales Dashboard** developed from *
 ### 📌 1. Total Sales by Category (with Country Filter)
 - **Chart Type**: Column Chart  
 - **Insight**: `Electronics` leads total sales (₹149K+), especially in USA and Australia.
+<img width="902" height="430" alt="image" src="https://github.com/user-attachments/assets/4a5c2ccc-663c-40b2-a1c2-da0349e28070" />
 
 ---
 
 ### 📌 2. Monthly Sales Trend (with Category Filter)
 - **Chart Type**: Line Chart  
 - **Insight**: **June** saw the peak with ₹149K+ sales; seasonal boost evident in Q2.
+<img width="902" height="294" alt="image" src="https://github.com/user-attachments/assets/ea9293f9-b857-49a8-8fc0-a6220279f398" />
 
 ---
 
 ### 📌 3. Top 5 Products by Sales (with Country Filter)
 - **Chart Type**: Bar Chart  
 - **Insight**: **Jacket**, **Monitor**, and **Smartphone** dominate sales, indicating tech & fashion preference.
+<img width="902" height="320" alt="image" src="https://github.com/user-attachments/assets/3c440cb8-9542-49fd-bf39-1c06536951b1" />
 
 ---
 
 ### 📌 4. Sales by Payment Method (with Category Filter)
 - **Chart Type**: Pie Chart  
 - **Insight**: **Net Banking**, **PayPal**, and **UPI** combined form ~63% of total sales revenue.
+<img width="902" height="348" alt="image" src="https://github.com/user-attachments/assets/1df63686-3c08-4599-9e07-d7ae02e6260c" />
 
 ---
 
 ### 📌 5. Quantity Sold by Country (with Product Filter)
 - **Chart Type**: Column Chart  
 - **Insight**: **Canada** leads in unit sales, while **USA** focuses on high-value, low-quantity purchases.
+<img width="902" height="382" alt="image" src="https://github.com/user-attachments/assets/04c36ea8-bc8c-46ab-833c-adb50cac0b5d" />
 
 ---
 
@@ -85,6 +90,7 @@ This project presents a dynamic **Excel-based Sales Dashboard** developed from *
   - **USA** leads via PayPal  
   - **India** excels in Home Decor via Net Banking  
   - **Canada** has luxury sales via UPI
+<img width="1192" height="542" alt="image" src="https://github.com/user-attachments/assets/79f045e9-17e2-40e6-9dd8-b406bc978e3d" />
 
 ---
 
