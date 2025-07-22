@@ -90,7 +90,7 @@ This project presents a dynamic **Excel-based Sales Dashboard** developed from *
   - **USA** leads via PayPal  
   - **India** excels in Home Decor via Net Banking  
   - **Canada** has luxury sales via UPI
-<img width="1192" height="542" alt="image" src="https://github.com/user-attachments/assets/79f045e9-17e2-40e6-9dd8-b406bc978e3d" />
+<img width="3037" height="782" alt="image" src="https://github.com/user-attachments/assets/0bc24802-5b48-4113-8fd3-7ce9a28db8ac" />
 
 ---
 
